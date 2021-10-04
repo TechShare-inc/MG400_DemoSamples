@@ -11,8 +11,11 @@
 5. DobotStudio2020より TeachandPlayback/Blockly/Script のそれぞれで追加したプログラムを実行してください。
 
 # プログラム説明
-- blockly_pointlist
+- PythonSDK
+- TCP
+- blockly_IO
 - blockly_RelMoveCube
+- blockly_pointlist
 - playback_lineSquare
 - playback_pointlist
 - plyaback_simple3point
