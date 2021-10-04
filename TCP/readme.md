@@ -12,7 +12,7 @@ LAN2同士を接続した2台のMG400がTCP通信で
 ## 実行方法
 1. MG400をLAN2同士で接続する。
 2. LAN1はそれぞれPCに接続し、サーバープログラム、クライアントプログラムの順に
-   DobotStudio2020またはSCStudioでプログラムを実行する。
+   DobotStudio2020またはSCStudioで実行する。
 
 <br>
 
