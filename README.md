@@ -9,3 +9,10 @@
 4. `project/project/`がプログラムを保存するフォルダとなります。こちらにMG400_DemoSamplesからダウンロードしたファイルを入れてください。
 各ファイル名は"開発方法_プログラム名"となっています。
 5. DobotStudio2020より TeachandPlayback/Blockly/Script のそれぞれで追加したプログラムを実行してください。
+
+# プログラム説明
+- blockly_pointlist
+- blockly_RelMoveCube
+- playback_lineSquare
+- playback_pointlist
+- plyaback_simple3point
