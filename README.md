@@ -12,6 +12,7 @@
 
 # プログラム説明
 - PythonSDK
+  - multiple_of_3.py
 - TCP
   - script_TCPclient
   - script_TCPserver
