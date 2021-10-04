@@ -9,6 +9,13 @@
 2. ピック時アップはDO_01に接続したエアポンプを使用する。
  
  <br>
+  
+## 動作環境
+- Ubuntu 20.04
+- Windows10
+- Raspberry Pi OS(Raspbian)
+ 
+ <br>
  
 ## 使用した関数の注意点
 ### MovJ(x,y,z,r,0,0)
