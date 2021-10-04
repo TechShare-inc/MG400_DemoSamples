@@ -13,8 +13,8 @@
   ID      プログラム内で任意で設定できる固有ID、他のパレットと同じ値にしないこと
   Opiton  パレタイジング時の設定
 --]]
-local MPpick = MatrixPallet(2,1, "IsUnstack=true Userframe=2")
-local MPplace = MatrixPallet(1,2, "IsUnstack=false Userframe=2")
+local MPpick = MatrixPallet(1,1, "IsUnstack=true Userframe=2")
+local MPplace = MatrixPallet(0,2, "IsUnstack=false Userframe=2")
 
 --Resetで一番初めに初期化を行う
 Reset(MPpick)
@@ -56,7 +56,7 @@ end
 
 Release(MPpick)
 Release(MPplace)
---]]一番上の括弧はここまでコメントアウトします
+--]]一番上の括弧はここまでコメントアウトできます
         
 --[[
 --一つのパレットを動作確認する際はこちらを参考にしてください
