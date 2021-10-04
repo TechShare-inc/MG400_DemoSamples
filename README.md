@@ -13,6 +13,8 @@
 # プログラム説明
 - PythonSDK
 - TCP
+  - script_TCPclient
+  - script_TCPserver
 - blockly_IO
 - blockly_RelMoveCube
 - blockly_pointlist
