@@ -1,3 +1,4 @@
+#Copyright © 2021 TechShare Inc. All Rights Reserved.
 #coding: utf-8
 from dobot_api import dobot_api_dashboard, dobot_api_feedback, MyType
 from multiprocessing import Process
