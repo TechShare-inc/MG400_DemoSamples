@@ -1,5 +1,5 @@
--- Copyright © 2021 TechShare Inc. All Rights Reserved.
 -- Version: Lua 5.4.1
+-- Copyright © 2021 TechShare Inc. All Rights Reserved.
 local ip="192.168.2.6"
 local port=6001
 local err=0
