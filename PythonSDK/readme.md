@@ -1,4 +1,4 @@
-
+Copyright © 2021 TechShare Inc. All Rights Reserved.
 # PythonSDK/multiple_of_3.py
 ピックアップ動作を10回繰り返す 
  <br>
@@ -40,3 +40,5 @@ I/Oの1番目のパラメータはタイミングを「開始点を0、
 2番目のパラメータは1番目のパラメータで指定したモードに合わせて、
 どのタイミングで出力を行うかを指定する。
 4番目のパラメータではONの場合1、OFFの場合0。
+
+Copyright © 2021 TechShare Inc. All Rights Reserved.
