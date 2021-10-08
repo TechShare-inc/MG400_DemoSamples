@@ -1,3 +1,5 @@
+Copyright © 2021 TechShare Inc. All Rights Reserved.
+
 # MG400_DemoSamples
 オンラインデモでご紹介したプログラムや、初めてMG400をご利用いただく方向けのサンプルプログラムはこちらからダウンロードできます
 
