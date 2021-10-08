@@ -1,3 +1,4 @@
+-- Copyright © 2021 TechShare Inc. All Rights Reserved.
 while 1 do
   -- 各点を指定して四角形
   MovJ((P1))
