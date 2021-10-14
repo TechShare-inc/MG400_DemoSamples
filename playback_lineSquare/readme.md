@@ -1,3 +1,5 @@
+Copyright © 2021 TechShare Inc. All Rights Reserved.
+
 ## playback_lineSquare/
 プレイバックを用いた手先での四角の軌道の生成
 
@@ -8,3 +10,5 @@
 
 ## 動作環境
 -- Windows10 
+
+Copyright © 2021 TechShare Inc. All Rights Reserved.
