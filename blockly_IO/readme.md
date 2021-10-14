@@ -19,7 +19,7 @@ Copyright © 2021 TechShare Inc. All Rights Reserved.
 -- DO_15　LED  
 -- DO_16　LED  
 -- DI_14　スイッチ  
--- DI_15　スイッチ  　
+-- DI_15　スイッチ  
 -- DI_16　スイッチ  　
 
 
