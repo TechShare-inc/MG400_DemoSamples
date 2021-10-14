@@ -1,3 +1,5 @@
+Copyright © 2021 TechShare Inc. All Rights Reserved.
+
 ## blockly_pointlist/
 pointlistを用いて位置/姿勢を指定し、動作させる。
 
@@ -7,3 +9,5 @@ pointlistを用いて位置/姿勢を指定し、動作させる。
 
 ## 動作環境
 -- Windows10  
+
+Copyright © 2021 TechShare Inc. All Rights Reserved.
