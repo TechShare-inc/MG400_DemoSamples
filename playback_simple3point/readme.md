@@ -1,3 +1,5 @@
+Copyright © 2021 TechShare Inc. All Rights Reserved.
+
 ## playback_simple3point/
 3点を指定し、プレイバックを用いて手先の軌道を生成
 
@@ -7,3 +9,5 @@
 
 ## 動作環境
 -- Windows10 
+
+Copyright © 2021 TechShare Inc. All Rights Reserved.
