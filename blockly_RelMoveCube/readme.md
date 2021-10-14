@@ -1,3 +1,5 @@
+Copyright © 2021 TechShare Inc. All Rights Reserved.
+
 ## blockly_RelMoveCube/
 指定した位置/姿勢からの相対的な位置/姿勢を指定して動作させる方法として  
 RelMoveJ関数を用いた方法,MoveJ関数を用いた方法の二つをご紹介します。
@@ -9,3 +11,5 @@ RelMoveJ関数を用いた方法,MoveJ関数を用いた方法の二つをご紹
 
 ## 動作環境
 -- Windows10  
+
+Copyright © 2021 TechShare Inc. All Rights Reserved.
