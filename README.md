@@ -13,17 +13,17 @@ Copyright © 2021 TechShare Inc. All Rights Reserved.
 5. DobotStudio2020より TeachandPlayback/Blockly/Script のそれぞれで追加したプログラムを実行してください。
 
 # プログラム説明
-- PythonSDK
-  - multiple_of_3.py
-- TCP
-  - script_TCPclient
-  - script_TCPserver
-- blockly_IO
-- blockly_RelMoveCube
-- blockly_pointlist
-- playback_lineSquare
-- playback_pointlist
-- plyaback_simple3point
-
+- PythonSDK　 　  PythonSDKを使用し、PCに保存したプログラムでMG400を制御する
+  - multiple_of_3.py   
+- TCP   　　MG400を2台連携させたデモ
+  - script_TCPclient　　   クライアントプログラム
+  - script_TCPserver  　　 サーバープログラム
+- blockly_IO  　　 デジタルI/Oに接続したスイッチからアームやパトランプ、エアポンプの制御を行う
+- blockly_RelMoveCube 　　  RelMoveJ、MoveJブロックを使用し、四角形を描く移動を行う
+- blockly_pointlist  　　 ポイントリストを使用し、指定した点へ移動を行う
+- playback_lineSquare  　　 MoveL命令を使用し、四角形を描く移動を行う
+- playback_pointlist 　　  ポイントリストを使用し、指定した点へ移動を行う
+- plyaback_simple3point 　　  MoveL命令を使用し、3点間の移動を行う
+- script_pallet 　　  パレット機能を使用して、一方のパレットから他方のパレットへワークの積み替えを行う
 
 Copyright © 2021 TechShare Inc. All Rights Reserved.
