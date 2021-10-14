@@ -1,4 +1,4 @@
-## blockly_RelMoveCube/
+## blockly_pointlist/
 pointlistを用いて位置/姿勢を指定し、動作させる。
 
 ## デモ内容
