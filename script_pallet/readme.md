@@ -2,11 +2,6 @@ Copyright © 2021 TechShare Inc. All Rights Reserved.
 # PythonSDK/multiple_of_3.py
 パレット機能を用いて、一方のパレットから他方のパレットへの積み替えを行う 
  <br>
- <br>
- 
-## デモ内容
-1. 3の倍数の時はアームが右側に、それ以外の時は左側に移動する。
-2. ピックアップ時はDO_01に接続したエアポンプを使用する。
  
  <br>
   
