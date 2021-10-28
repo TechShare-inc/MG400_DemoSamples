@@ -1,5 +1,5 @@
 Copyright © 2021 TechShare Inc. All Rights Reserved.
-# PythonSDK/multiple_of_3.py
+# script_pallet
 パレット機能を用いて、一方のパレットから他方のパレットへの積み替えを行う 
  <br>
  
