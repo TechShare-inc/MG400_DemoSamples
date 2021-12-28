@@ -15,7 +15,7 @@ Copyright © 2021 TechShare Inc. All Rights Reserved.
  <br>
   
 ## 動作時の注意点
-- 動作させるにはパレットを2つ作成する必要があります。今回はID(index)が0,1のパレットを指定しています。
+- 動作させるにはパレットを2つ作成する必要があります。ここではID(index)が0,1のパレットを指定しています。
  
  <br>
 Copyright © 2021 TechShare Inc. All Rights Reserved.
