@@ -13,6 +13,7 @@ Copyright © 2021 TechShare Inc. All Rights Reserved.
 5. DobotStudio2020より TeachandPlayback/Blockly/Script のそれぞれで追加したプログラムを実行してください。
 
 # プログラム説明
+- PickandPlace  scriptプログラム、グリッパで単純なピック＆プレースを繰り返す
 - PythonSDK　 　  PythonSDKを使用し、PCに保存したプログラムでMG400を制御する
   - multiple_of_3.py   
 - TCP   　　MG400を2台連携させたデモ
