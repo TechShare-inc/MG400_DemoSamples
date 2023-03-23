@@ -19,4 +19,6 @@ Copyright © 2021 TechShare Inc. All Rights Reserved.
 プログラムのImport方法、Export(PCへバックアップをとる)方法の詳細は下記FAQサイトに記載されておりますので<br>
 ご覧ください。<br>
 
+https://techshare.co.jp/faq/dobot/mg400/backup-program.html<br>
+
 Copyright © 2021 TechShare Inc. All Rights Reserved.
