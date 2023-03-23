@@ -7,27 +7,16 @@ Copyright © 2021 TechShare Inc. All Rights Reserved.
 バージョン2.5.0以前をご使用の方は「ver2.2.0」フォルダにありますサンプルプログラムをまずはご利用ください。<br>
 
 
-# 使い方
+# プログラム利用方法
 1. 画面右上CodeよりDownload ZIPからプログラムをダウンロードしてください。
-2. PCとMG400をLANケーブルを用いて接続してください。ポートはLAN1でお願いいたします。
-3. Windows Explorer上部のファイルパスへ`\\192.168.1.6`を入力してMG400内のフォルダへアクセスします。
-4. `project/project/`がプログラムを保存するフォルダとなります。こちらにMG400_DemoSamplesからダウンロードしたファイルを入れてください。
-各ファイル名は"開発方法_プログラム名"となっています。
-5. DobotStudio2020より TeachandPlayback/Blockly/Script のそれぞれで追加したプログラムを実行してください。
+2. プログラムをお好みのディレクトリで解凍してください。
+3. PCとMG400をLANケーブルを用いて接続してください。ポートはLAN1でお願いいたします。
+4. お使いのPCでDobotStudioProを起動、MG400への接続まで行ってください。
+5. 使いたいプログラムの形式(Teach&Playback(ver2.4.1以前の方限定)、Blockly、Script)を選択してください。
+6. プログラムの編集画面に遷移しましたら画面左上の「File」→「Import project」の順番にクリックし、使用したプログラムのフォルダを選択してください。
+7. 実行する際は必ず「Save」を行い、MG400内部へプログラムの書き込みを行ってから実行してください
 
-# プログラム説明
-- PickandPlace  scriptプログラム、グリッパで単純なピック＆プレースを繰り返す
-- PythonSDK　 　  PythonSDKを使用し、PCに保存したプログラムでMG400を制御する
-  - multiple_of_3.py   
-- TCP   　　MG400を2台連携させたデモ
-  - script_TCPclient　　   クライアントプログラム
-  - script_TCPserver  　　 サーバープログラム
-- blockly_IO  　　 デジタルI/Oに接続したスイッチからアームやパトランプ、エアポンプの制御を行う
-- blockly_RelMoveCube 　　  RelMoveJ、MoveJブロックを使用し、四角形を描く移動を行う
-- blockly_pointlist  　　 ポイントリストを使用し、指定した点へ移動を行う
-- playback_lineSquare  　　 MoveL命令を使用し、四角形を描く移動を行う
-- playback_pointlist 　　  ポイントリストを使用し、指定した点へ移動を行う
-- plyaback_simple3point 　　  MoveL命令を使用し、3点間の移動を行う
-- script_pallet 　　  パレット機能を使用して、一方のパレットから他方のパレットへワークの積み替えを行う
+プログラムのImport方法、Export(PCへバックアップをとる)方法の詳細は下記FAQサイトに記載されておりますので<br>
+ご覧ください。<br>
 
 Copyright © 2021 TechShare Inc. All Rights Reserved.
