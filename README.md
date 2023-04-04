@@ -1,4 +1,4 @@
-Copyright © 2021 TechShare Inc. All Rights Reserved.
+Copyright © 2023 TechShare Inc. All Rights Reserved.
 
 # MG400_DemoSamples
 オンラインデモでご紹介したプログラムや、初めてMG400をご利用いただく方向けのサンプルプログラムはこちらからダウンロードできます。<br>
@@ -22,4 +22,4 @@ __※サンプルプログラム使用時には必ず、MG400の周りに動作�
 
 https://techshare.co.jp/faq/dobot/mg400/backup-program.html<br>
 
-Copyright © 2021 TechShare Inc. All Rights Reserved.
+Copyright © 2023 TechShare Inc. All Rights Reserved.
