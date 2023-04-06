@@ -1,0 +1,16 @@
+MovJ((P2))
+DO(1,0)
+Sync()
+Sync()
+while 1 do
+  MovL((P1))
+  Sync()
+  DOInstant(1,1)
+  Wait(500)
+  MovL((P2))
+  MovL((P1))
+  Sync()
+  DOInstant(1,0)
+  Wait(500)
+  MovL((P2))
+end
