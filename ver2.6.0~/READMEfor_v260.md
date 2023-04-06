@@ -10,7 +10,7 @@ Copyright © 2023 TechShare Inc. All Rights Reserved.
 
 - Camera_TCP TCP通信を用いて2Dカメラと座標データのやり取りを行うプログラム(DobotVisionStudioと連携可能)
 - Circle 　MoveカテゴリCircle関数の動作確認プログラム
-- movecommand   　MOveカテゴリの
+- movecommand   　Moveカテゴリのブロック全般の紹介要プログラム
 - pallet  　パレタイジング動作のサンプルプログラム(詳しくは https://techshare.co.jp/faq/dobot/mg400/palletizing.html にて紹介しています)
 - elecric-gripper 小型電動グリッパーの動作確認プログラム
 - electromagnetic-gripper 小型電磁グリッパーの動作確認プログラム
