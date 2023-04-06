@@ -31,7 +31,4 @@ Copyright © 2023 TechShare Inc. All Rights Reserved.
 また、キャリブレーション方法につきましては https://techshare.co.jp/faq/dobot/mg400/home-calibration.html <br>
 ポイントリストの使用方法につきましては https://techshare.co.jp/faq/dobot/mg400/point-list.html をご参照ください。<br>
 
-
-https://techshare.co.jp/faq/dobot/mg400/backup-program.html<br>
-
 Copyright © 2023 TechShare Inc. All Rights Reserved.
