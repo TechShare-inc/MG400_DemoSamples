@@ -3,12 +3,9 @@ function string_toArray(string,separator)
  string.gsub(string, separator, function(w) table.insert(tab, w) end )
  return tab
 end
-
-
 AccJ(100)
 SpeedJ(100)
-
-  resultCreate1,socket1 = TCPCreate(true, '192.168.1.6', 7920)
+resultCreate1,socket1 = TCPCreate(true, '192.168.1.6', 7920)
   if resultCreate1 == 0 then
       print("Create TCP Server Success!")
   else
@@ -33,11 +30,12 @@ while 1 do
     Sync()
     print(('X:'..X))
     Sync()
-    print(('Y'..Y))
+    print(('Y:'..Y))
     Sync()
-    print(('R'..R))
+    print(('R:'..R))
     Sync()
-    MovJ(({coordinate = {X,Y,(-15),R}, tool = 0, user = 0}))
+    MovJ(({coordinate = {X,Y,(P1.coordinate[z]
+    ),R}, tool = 0, user = 0}))
     MovJ((P2))
   end
   Sync()
