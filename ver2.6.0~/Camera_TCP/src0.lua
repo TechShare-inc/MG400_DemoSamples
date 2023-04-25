@@ -34,7 +34,7 @@ while 1 do
     Sync()
     print(('R:'..R))
     Sync()
-    MovJ(({coordinate = {X,Y,(P1.coordinate[z]
+    MovJ(({coordinate = {X,Y,(P1.coordinate[3]
     ),R}, tool = 0, user = 0}))
     MovJ((P2))
   end
