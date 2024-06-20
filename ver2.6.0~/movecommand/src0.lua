@@ -1,7 +1,0 @@
-MovJ((P1))
-MovL((P2))
-RelMovL({30,0,0,0})
-RelMovL({-30,0,0,0})
-Jump((P1), {Start=10, ZLimit=10, End=10})
-Circle((P3),(P4),1)
-Arc((P3),(P4))
