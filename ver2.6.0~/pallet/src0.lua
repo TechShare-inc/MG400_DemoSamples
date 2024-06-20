@@ -4,7 +4,8 @@ MovJ((P5))
   local points_place = {}
   PalletCreate({P1,P2,P3,P4},{3,3},points_place)
 Sync()
-while not (place_count==#points_place) do
+while not (place_count>#points_place) do
+  Sleep(50)
   MovJ(RelPoint(P6,{0,0,DELTA_Z,0}))
   MovL((P6))
   MovL(RelPoint(P6,{0,0,DELTA_Z,0}))
